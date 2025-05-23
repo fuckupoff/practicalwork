@@ -1,5 +1,5 @@
-J = 'ab'.strip()
-S = 'aabbccd'.strip()
+J = 'ab'
+S = 'aabbccd'
 res = 0
 jset = set(J)
 for i in S:
